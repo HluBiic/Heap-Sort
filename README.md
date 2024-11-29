@@ -1,6 +1,4 @@
 # Heap
-
-# Heap
   - **Subject**: *Algorithms II*
   - **Type**: *Homework 02*
   - **Year**: *2. year - winter semester (2024)*
